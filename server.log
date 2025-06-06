@@ -1,0 +1,785 @@
+2025-06-04 18:52:18,570 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-04 18:52:18,570 - server - INFO - Waiting for connections...
+2025-06-04 18:52:21,629 - server - INFO - New connection from ('127.0.0.1', 63690), assigned player ID: 0
+2025-06-04 18:52:31,651 - server - INFO - Player 0 timed out
+2025-06-04 18:57:59,730 - server - ERROR - Error receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-06-04 19:19:26,667 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-04 19:19:26,667 - server - INFO - Waiting for connections...
+2025-06-04 19:19:29,155 - server - INFO - New connection from ('127.0.0.1', 63986), assigned player ID: 0
+2025-06-04 19:19:29,927 - server - INFO - Player 0 ready status: True
+2025-06-04 19:19:29,927 - server - INFO - All players ready, starting countdown
+2025-06-04 19:19:29,927 - server - INFO - Countdown: 3
+2025-06-04 19:19:30,928 - server - INFO - Countdown: 2
+2025-06-04 19:19:31,929 - server - INFO - Countdown: 1
+2025-06-04 19:19:32,930 - server - INFO - Game started!
+2025-06-04 19:19:35,395 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,352 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,589 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,623 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,656 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,690 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,724 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,758 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,791 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,825 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,858 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,891 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,924 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,957 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:45,992 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,025 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,058 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,093 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,126 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,160 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,193 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,228 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,262 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,296 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,329 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,363 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,396 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,431 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,464 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,498 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,531 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,563 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,597 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,631 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,665 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,699 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,732 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,765 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,799 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,832 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,866 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,899 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,932 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,966 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:46,999 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,034 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,067 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,101 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,134 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,167 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,202 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,236 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,270 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,303 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,336 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,369 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,404 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,437 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,471 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,505 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,539 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,571 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,604 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,638 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,672 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,706 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,740 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,774 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,807 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,840 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,873 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,906 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,940 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:47,972 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,005 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,040 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,073 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,107 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,141 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,175 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,208 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,242 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,275 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,309 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,342 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,375 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,409 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,443 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,476 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,510 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,544 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,577 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,610 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,643 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,677 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,711 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,745 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,779 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,813 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,845 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,878 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,912 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,945 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:48,978 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,012 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,046 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,080 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,114 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,148 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,182 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,215 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,249 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,283 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,317 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,351 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,383 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,416 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,449 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,482 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,516 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,551 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,584 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,617 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,651 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,685 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,718 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,753 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,787 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,820 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,854 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,888 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,921 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,956 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:49,989 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,023 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,056 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,089 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,123 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,156 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,189 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,223 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,256 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,289 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,323 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,356 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,389 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,423 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,456 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,490 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,524 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,557 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,590 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,624 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,657 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,691 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,725 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,758 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,791 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,824 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,857 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,892 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,926 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,959 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:50,993 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,025 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,058 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,091 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,124 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,157 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,190 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,223 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,256 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,289 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,323 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,356 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,389 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,422 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,456 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,488 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,523 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,557 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,590 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,623 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,657 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,691 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,725 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,758 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,791 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,824 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,858 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,891 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,925 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,958 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:51,991 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,024 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,058 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,091 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,124 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,157 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,190 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,224 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,257 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,290 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,323 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,357 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,390 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,423 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,457 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,491 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,523 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,556 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,589 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,624 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,657 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,691 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,725 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,758 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,791 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,825 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,858 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,891 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,924 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,958 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:52,991 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,024 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,057 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,091 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,124 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,157 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,190 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,223 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,256 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,289 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,323 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,356 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,389 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,423 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,455 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,490 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,524 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,557 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,591 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,624 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,657 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,691 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,725 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,758 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,793 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,826 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,859 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,893 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,926 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,960 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:53,993 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,026 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,059 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,092 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,126 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,161 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,194 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,228 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,261 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,294 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,327 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,360 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,394 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,428 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,461 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,494 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,528 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,561 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,595 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,629 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,663 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,696 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,729 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,763 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,796 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,831 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,864 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,897 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,929 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,964 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:54,998 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,031 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,064 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,098 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,132 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,165 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,198 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,231 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,264 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,297 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,330 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,363 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,396 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,429 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,463 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,495 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,529 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,563 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,597 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,630 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,664 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,697 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,731 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,764 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,797 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,830 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,864 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,898 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,931 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,964 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:55,998 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,032 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,066 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,100 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,133 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,167 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,200 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,233 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,266 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,299 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,332 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,366 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,399 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,432 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,466 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,499 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,533 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,566 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,599 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,633 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,666 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,699 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,733 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,767 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,801 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,834 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,868 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,901 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,935 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:56,968 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,001 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,034 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,067 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,100 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,133 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,166 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,199 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,233 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,267 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,300 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,333 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,366 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,399 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,432 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,466 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,499 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,533 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,566 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,599 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,632 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,666 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,700 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,734 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,767 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,800 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,833 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,868 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,901 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,935 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:57,968 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,001 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,035 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,067 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,101 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,135 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,168 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,202 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,236 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,269 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,302 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,336 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,369 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,404 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,438 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,472 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,506 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,540 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,574 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,607 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,641 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,674 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,707 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,740 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,773 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,806 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,840 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,874 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,907 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,940 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:58,974 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,007 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,040 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,073 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,107 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,140 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,174 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,207 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,241 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,274 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,309 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,342 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,376 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,410 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,444 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,478 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,512 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,545 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,579 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,613 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,646 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,680 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,713 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,747 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,780 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,813 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,846 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,879 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,912 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,945 - server - INFO - Processing collision for player 0
+2025-06-04 19:19:59,979 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,012 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,045 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,079 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,112 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,145 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,178 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,211 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,245 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,278 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,312 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,345 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,378 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,411 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,445 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,480 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,514 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,548 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,582 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,615 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,648 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,682 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,716 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,749 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,783 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,817 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,850 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,883 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,917 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,951 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:00,983 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,017 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,050 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,084 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,118 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,151 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,184 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,217 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,250 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,283 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,316 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,349 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,382 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,415 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,448 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,481 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,514 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,547 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,581 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,614 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,647 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,681 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,714 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,747 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,781 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,813 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,846 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,880 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,914 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,948 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:01,981 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,016 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,050 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,083 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,116 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,149 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,182 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,216 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,250 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,283 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,316 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,349 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,383 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,416 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,449 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,483 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,516 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,549 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,583 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,616 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,650 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,684 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,717 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,751 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,784 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,818 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,852 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,885 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,919 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,952 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:02,986 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,019 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,053 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,086 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,119 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,153 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,187 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,221 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,255 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,288 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,322 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,355 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,389 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,423 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,456 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,490 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,523 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,556 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,590 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,623 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,656 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,689 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,724 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,757 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,790 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,824 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,857 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,890 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,923 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,957 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:03,990 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,024 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,057 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,090 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,123 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,156 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,190 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,222 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,256 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,289 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,323 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,356 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,389 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,423 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,456 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,490 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,523 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,556 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,589 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,623 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,656 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,689 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,723 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,756 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,790 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,823 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,856 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,890 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,923 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,956 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:04,990 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,023 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,057 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,090 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,125 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,158 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,192 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,225 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,259 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,293 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,326 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,360 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,393 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,427 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,460 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,494 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,527 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,560 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,593 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,627 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,661 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,694 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,727 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,761 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,795 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,828 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,861 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,894 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,927 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,961 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:05,994 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:06,028 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:06,062 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:06,095 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:06,128 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:06,163 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:06,197 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:06,230 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:06,264 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:07,366 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:21,032 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:21,705 - server - INFO - Processing collision for player 0
+2025-06-04 19:20:23,784 - server - INFO - Player Player won the race in 50.85 seconds!
+2025-06-04 19:27:27,849 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-04 19:27:27,850 - server - INFO - Waiting for connections...
+2025-06-04 19:27:32,272 - server - INFO - New connection from ('127.0.0.1', 64007), assigned player ID: 0
+2025-06-04 19:27:32,938 - server - INFO - Player 0 ready status: True
+2025-06-04 19:27:32,938 - server - INFO - All players ready, starting countdown
+2025-06-04 19:27:32,938 - server - INFO - Countdown: 3
+2025-06-04 19:27:33,939 - server - INFO - Countdown: 2
+2025-06-04 19:27:34,939 - server - INFO - Countdown: 1
+2025-06-04 19:27:35,940 - server - INFO - Game started!
+2025-06-04 19:27:55,433 - server - INFO - Processing collision for player 0
+2025-06-04 19:28:00,827 - server - INFO - Processing collision for player 0
+2025-06-04 19:28:03,740 - server - INFO - Player Player won the race in 27.80 seconds!
+2025-06-04 20:25:59,561 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-04 20:25:59,561 - server - INFO - Waiting for connections...
+2025-06-04 20:26:02,713 - server - INFO - New connection from ('127.0.0.1', 64605), assigned player ID: 0
+2025-06-04 20:26:03,384 - server - INFO - Player 0 ready status: True
+2025-06-04 20:26:03,384 - server - INFO - All players ready, starting countdown
+2025-06-04 20:26:03,385 - server - INFO - Countdown: 3
+2025-06-04 20:26:04,385 - server - INFO - Countdown: 2
+2025-06-04 20:26:05,386 - server - INFO - Countdown: 1
+2025-06-04 20:26:06,387 - server - INFO - Game started!
+2025-06-04 20:26:33,025 - server - INFO - Player Player won the race in 26.64 seconds!
+2025-06-04 20:55:14,189 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-04 20:55:14,189 - server - INFO - Waiting for connections...
+2025-06-04 20:58:30,161 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-04 20:58:30,161 - server - INFO - Waiting for connections...
+2025-06-04 20:58:32,675 - server - INFO - New connection from ('127.0.0.1', 49305), assigned player ID: 0
+2025-06-04 20:58:46,045 - server - INFO - Player 0 timed out
+2025-06-04 21:01:48,333 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-04 21:01:48,333 - server - INFO - Waiting for connections...
+2025-06-04 21:01:51,438 - server - INFO - New connection from ('127.0.0.1', 49327), assigned player ID: 0
+2025-06-04 21:01:58,780 - server - INFO - Player 0 ready status: True
+2025-06-04 21:01:58,780 - server - INFO - All players ready, starting countdown
+2025-06-04 21:01:58,780 - server - INFO - Countdown: 3
+2025-06-04 21:01:59,781 - server - INFO - Countdown: 2
+2025-06-04 21:02:00,781 - server - INFO - Countdown: 1
+2025-06-04 21:02:01,782 - server - INFO - Game started!
+2025-06-04 21:02:03,264 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-04 21:02:03,264 - server - INFO - Waiting for connections...
+2025-06-04 21:02:06,500 - server - ERROR - Error receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-06-04 21:02:06,500 - server - INFO - Player 0 disconnected
+2025-06-06 19:35:15,432 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-06 19:35:15,432 - server - INFO - Waiting for connections...
+2025-06-06 19:35:21,363 - server - INFO - New connection from ('127.0.0.1', 51967), assigned player ID: 0
+2025-06-06 19:35:22,098 - server - INFO - Player 0 ready status: True
+2025-06-06 19:35:22,098 - server - INFO - All players ready, starting countdown
+2025-06-06 19:35:22,098 - server - INFO - Countdown: 3
+2025-06-06 19:35:23,098 - server - INFO - Countdown: 2
+2025-06-06 19:35:24,099 - server - INFO - Countdown: 1
+2025-06-06 19:35:25,099 - server - INFO - Game started!
+2025-06-06 19:35:27,946 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,245 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,278 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,311 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,344 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,377 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,410 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,444 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,477 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,543 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,576 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,611 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,644 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,678 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,711 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,744 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,777 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,809 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,843 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,877 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,910 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,943 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:28,976 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:29,009 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:29,043 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:29,078 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:29,111 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:29,143 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:29,177 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:29,573 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:29,805 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:31,268 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:31,335 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:31,367 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:31,401 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:31,435 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:31,501 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:31,533 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:31,600 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:31,733 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:32,033 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:32,899 - server - INFO - Processing collision for player 0
+2025-06-06 19:35:33,834 - server - ERROR - Error receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-06-06 19:35:33,834 - server - INFO - Player 0 disconnected
+2025-06-06 20:16:38,743 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-06 20:16:38,744 - server - INFO - Waiting for connections...
+2025-06-06 20:16:41,622 - server - INFO - New connection from ('127.0.0.1', 52409), assigned player ID: 0
+2025-06-06 20:16:51,653 - server - INFO - Player 0 timed out
+2025-06-06 20:26:22,980 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-06 20:26:22,980 - server - INFO - Waiting for connections...
+2025-06-06 20:26:25,891 - server - INFO - New connection from ('127.0.0.1', 52487), assigned player ID: 0
+2025-06-06 20:26:26,532 - server - INFO - Player 0 ready status: True
+2025-06-06 20:26:26,533 - server - INFO - All players ready, starting countdown
+2025-06-06 20:26:26,533 - server - INFO - Countdown: 3
+2025-06-06 20:26:27,533 - server - INFO - Countdown: 2
+2025-06-06 20:26:28,534 - server - INFO - Countdown: 1
+2025-06-06 20:26:29,534 - server - INFO - Game started!
+2025-06-06 20:26:55,572 - server - INFO - Player Player won the race in 26.04 seconds!
+2025-06-06 20:30:42,319 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-06 20:30:42,319 - server - INFO - Waiting for connections...
+2025-06-06 20:30:45,352 - server - INFO - New connection from ('127.0.0.1', 52515), assigned player ID: 0
+2025-06-06 20:30:46,282 - server - INFO - Player 0 ready status: True
+2025-06-06 20:30:46,282 - server - INFO - All players ready, starting countdown
+2025-06-06 20:30:46,282 - server - INFO - Countdown: 3
+2025-06-06 20:30:47,283 - server - INFO - Countdown: 2
+2025-06-06 20:30:48,283 - server - INFO - Countdown: 1
+2025-06-06 20:30:49,283 - server - INFO - Game started!
+2025-06-06 20:30:55,305 - server - INFO - Processing collision for player 0
+2025-06-06 20:31:23,101 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-06 20:31:23,101 - server - INFO - Waiting for connections...
+2025-06-06 20:31:23,317 - server - INFO - New connection from ('127.0.0.1', 52536), assigned player ID: 0
+2025-06-06 20:31:27,094 - server - INFO - Player 0 ready status: True
+2025-06-06 20:31:27,094 - server - INFO - All players ready, starting countdown
+2025-06-06 20:31:27,094 - server - INFO - Countdown: 3
+2025-06-06 20:31:28,095 - server - INFO - Countdown: 2
+2025-06-06 20:31:28,610 - server - INFO - Player 0 disconnected
+2025-06-06 20:31:38,014 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-06 20:31:38,015 - server - INFO - Waiting for connections...
+2025-06-06 20:31:40,651 - server - INFO - New connection from ('127.0.0.1', 52540), assigned player ID: 0
+2025-06-06 20:31:41,248 - server - INFO - Player 0 ready status: True
+2025-06-06 20:31:41,249 - server - INFO - All players ready, starting countdown
+2025-06-06 20:31:41,249 - server - INFO - Countdown: 3
+2025-06-06 20:31:42,249 - server - INFO - Countdown: 2
+2025-06-06 20:31:43,249 - server - INFO - Countdown: 1
+2025-06-06 20:31:44,250 - server - INFO - Game started!
+2025-06-06 20:39:12,925 - server - INFO - Server started on 127.0.0.1:5555
+2025-06-06 20:39:12,925 - server - INFO - Waiting for connections...
+2025-06-06 20:39:15,761 - server - INFO - New connection from ('127.0.0.1', 52616), assigned player ID: 0
+2025-06-06 20:39:16,661 - server - INFO - Player 0 ready status: True
+2025-06-06 20:39:16,661 - server - INFO - All players ready, starting countdown
+2025-06-06 20:39:16,661 - server - INFO - Countdown: 3
+2025-06-06 20:39:17,661 - server - INFO - Countdown: 2
+2025-06-06 20:39:18,662 - server - INFO - Countdown: 1
+2025-06-06 20:39:19,662 - server - INFO - Game started!
+2025-06-06 20:39:21,476 - server - ERROR - Error receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-06-06 20:39:21,477 - server - INFO - Player 0 disconnected
